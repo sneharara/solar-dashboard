@@ -1,0 +1,6 @@
+std_threshold,precision,recall,f1_score,false_positive_rate,true_positives,false_positives,false_negatives
+1.0,1.0,0.898,0.946,0.0,88,0,10
+1.5,1.0,0.816,0.899,0.0,80,0,18
+2.0,1.0,0.765,0.867,0.0,75,0,23
+2.5,1.0,0.714,0.833,0.0,70,0,28
+3.0,1.0,0.602,0.752,0.0,59,0,39
